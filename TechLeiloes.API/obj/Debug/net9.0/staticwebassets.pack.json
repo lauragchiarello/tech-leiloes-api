@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos\\Imagem8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechLeiloes.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechLeiloes.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TechLeiloes.API.props",
+      "PackagePath": "build\\TechLeiloes.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TechLeiloes.API.props",
+      "PackagePath": "buildMultiTargeting\\TechLeiloes.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TechLeiloes.API.props",
+      "PackagePath": "buildTransitive\\TechLeiloes.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

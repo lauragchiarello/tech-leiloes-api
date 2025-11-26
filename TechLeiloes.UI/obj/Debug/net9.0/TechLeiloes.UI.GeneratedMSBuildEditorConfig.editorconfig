@@ -56,16 +56,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home copy/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZSBjb3B5XEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home copy/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZSBjb3B5XFByaXZhY3kuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home copy/Produtos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZSBjb3B5XFByb2R1dG9zLmNzaHRtbA==
+[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhbGhlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home/Index.cshtml]
@@ -74,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Home/Produtos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Produtos/Create.cshtml]
@@ -98,6 +94,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/etec/Desktop/tech-leiloes-api/techleiloes.ui/Views/Shared/_LoginPartial.cshtml]

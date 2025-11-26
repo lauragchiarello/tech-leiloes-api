@@ -83,13 +83,13 @@ public class AppDbContext : IdentityDbContext<Usuario>
         {
              new Categoria() {
                 Id = 1,
-                Nome = "Iphone",
+                Nome = "Casa",
                 Foto = "/img/categorias/1.jpg",
                 Cor = ""
             },
             new Categoria() {
                 Id = 2,
-                Nome = "Xiaomi",
+                Nome = "Apartamento",
                 Foto = "/img/categorias/2.jpg",
                 Cor = ""
             },
@@ -103,60 +103,60 @@ public class AppDbContext : IdentityDbContext<Usuario>
         {
             new Produto() {
                 Id = 1,
-                Nome = "Iphone 17",
-                Descricao = " ",
-                CategoriaId = 1,
-                Foto = "/img/Produtos/iphone-17.jpg",
-                Destaque = true
+                Nome = "Apto - 173,69m² -3 Vagas -Alto Padrão - Bragança Paulista/SP",
+                Descricao = " Lance mínimo atual: R$ 594.106,49",
+                CategoriaId = 2,
+                Foto = "/img/Produtos/imagem1.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 2,
-                Nome = "Iphone 17 pro max",
-                Descricao = " ",
-                CategoriaId = 1,
-                Foto = "/img/Produtos/iphone-17pro.jpg"
+                Nome = "Direitos - Apartamento c/ 50,42m² - Vaga - Sertãozinho/SP",
+                Descricao = "Lance mínimo atual: R$ 41.248,36 ",
+                CategoriaId = 2,
+                Foto = "/img/Produtos/imagem2.jpg"
             },
             new Produto() {
                 Id = 3,
-                Nome = "Iphone Air",
-                Descricao = " ",
+                Nome = "Edificação c/ 132,25m² - Terreno c/ 250m² - São Paulo/SP Air",
+                Descricao = " Lance mínimo atual: R$ 501.304,06",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/iphone-air.jpg"
+                Foto = "/img/Produtos/imagem3.jpg"
             },
             new Produto() {
                 Id = 4,
-                Nome = "Iphone 16",
-                Descricao = " ",
+                Nome = "Casa Alto Padrão 561,70m² - Terreno - 1.400m² - Barueri/SP",
+                Descricao = " Lance mínimo atual: R$ 2.568.229,28",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/iphone16.jpg"
+                Foto = "/img/Produtos/imagem4.jpg"
             },
             new Produto() {
                 Id = 5,
-                Nome = "Iphone 16e",
-                Descricao = " ",
-                CategoriaId = 1,
-                Foto = "/img/Produtos/iphone16e.jpg"
+                Nome = "Parte (6%) de Thermas Parque Hotel -Conceição das Alagoas/MG",
+                Descricao = " Lance mínimo atual: R$ 1.674.648,04",
+                CategoriaId = 2,
+                Foto = "/img/Produtos/imagem5.jpg"
             },
             new Produto() {
                 Id = 6,
-                Nome = "Xiaomi 15T",
-                Descricao = " ",
+                Nome = "Direitos - Apartamento - 46,63m² - 02 Dorms. - Bauru/SP",
+                Descricao = "Lance mínimo atual: R$ 131.582,46 ",
                 CategoriaId = 2,
-                Foto = "/img/Produtos/xiaomi15T.jpg"
+                Foto = "/img/Produtos/imagem6.jpg"
             },
             new Produto() {
                 Id = 7,
-                Nome = "Xiaomi 17 pro",
-                Descricao = " ",
-                CategoriaId = 2,
-                Foto = "/img/Produtos/xiaomi17pro.jpg"
+                Nome = "Chácara c/ 4,2609 hectares - Rosana/SP",
+                Descricao = "Lance mínimo atual: R$ 641.712,00 ",
+                CategoriaId = 1,
+                Foto = "/img/Produtos/imagem7.jpg"
             },
             new Produto() {
                 Id = 8,
-                Nome = "XRedmi 15C",
-                Descricao = " ",
-                CategoriaId = 2,
-                Foto = "/img/Produtos/Xredmi15C.jpg"
+                Nome = "Grande Imóvel Comercial - 2.583,00ms² - Campos do Jordão/SP",
+                Descricao = "Lance mínimo atual: R$ 4.179.000,00 ",
+                CategoriaId = 1,
+                Foto = "/img/Produtos/imagem8.jpg"
             },
         };
         builder.Entity<Produto>().HasData(produtos);

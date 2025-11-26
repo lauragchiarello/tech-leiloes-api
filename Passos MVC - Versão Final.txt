@@ -4489,7 +4489,7 @@ public class HomeVM
     public List<ProdutoDto> ProdutosDestaque { get; set; } = new();
 }
 
-****************************************************************************************PAREI AKI
+
 
 70. Atualizar o Controller HomeController:
 using System.Diagnostics;
