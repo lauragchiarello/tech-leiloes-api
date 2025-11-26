@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "7K//NiD3+iXeEDFmEynS7q3WlUWpGF4Bo0bYvn4Ijsc=",
+  "Source": "TechLeiloes.API",
+  "BasePath": "_content/TechLeiloes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TechLeiloes.API\\wwwroot",
+      "Source": "TechLeiloes.API",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

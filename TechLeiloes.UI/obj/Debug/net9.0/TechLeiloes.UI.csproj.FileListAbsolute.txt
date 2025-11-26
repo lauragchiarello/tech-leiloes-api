@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.AssemblyInfo.cs
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.RazorAssemblyInfo.cache
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.RazorAssemblyInfo.cs
