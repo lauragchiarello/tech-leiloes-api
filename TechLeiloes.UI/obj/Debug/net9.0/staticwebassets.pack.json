@@ -5,12 +5,28 @@
       "PackagePath": "staticwebassets\\TechLeiloes.UI.5m33zlg8ew.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\Imagem-baner.png",
+      "PackagePath": "staticwebassets\\css\\Imagem-baner.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\Imagem-baner2.png",
+      "PackagePath": "staticwebassets\\css\\Imagem-baner2.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\Imagem-baner3.png",
+      "PackagePath": "staticwebassets\\css\\Imagem-baner3.png"
+    },
+    {
       "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\admin.css",
       "PackagePath": "staticwebassets\\css\\admin.css"
     },
     {
       "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\auth.css",
       "PackagePath": "staticwebassets\\css\\auth.css"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\logotipo.png",
+      "PackagePath": "staticwebassets\\css\\logotipo.png"
     },
     {
       "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.ui\\wwwroot\\css\\site.css",

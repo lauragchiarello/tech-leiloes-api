@@ -85,13 +85,13 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Id = 1,
                 Nome = "Casa",
                 Foto = "/img/categorias/1.jpg",
-                Cor = ""
+                Cor = "#000"
             },
             new Categoria() {
                 Id = 2,
                 Nome = "Apartamento",
                 Foto = "/img/categorias/2.jpg",
-                Cor = ""
+                Cor = "#000"
             },
         };
         builder.Entity<Categoria>().HasData(categorias);
@@ -108,55 +108,63 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 CategoriaId = 2,
                 Foto = "/img/Produtos/imagem1.jpg",
                 Destaque = true,
+              
             },
             new Produto() {
                 Id = 2,
                 Nome = "Direitos - Apartamento c/ 50,42m² - Vaga - Sertãozinho/SP",
                 Descricao = "Lance mínimo atual: R$ 41.248,36 ",
                 CategoriaId = 2,
-                Foto = "/img/Produtos/imagem2.jpg"
+                Foto = "/img/Produtos/imagem2.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 3,
                 Nome = "Edificação c/ 132,25m² - Terreno c/ 250m² - São Paulo/SP Air",
                 Descricao = " Lance mínimo atual: R$ 501.304,06",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/imagem3.jpg"
+                Foto = "/img/Produtos/imagem3.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 4,
                 Nome = "Casa Alto Padrão 561,70m² - Terreno - 1.400m² - Barueri/SP",
                 Descricao = " Lance mínimo atual: R$ 2.568.229,28",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/imagem4.jpg"
+                Foto = "/img/Produtos/imagem4.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 5,
                 Nome = "Parte (6%) de Thermas Parque Hotel -Conceição das Alagoas/MG",
                 Descricao = " Lance mínimo atual: R$ 1.674.648,04",
                 CategoriaId = 2,
-                Foto = "/img/Produtos/imagem5.jpg"
+                Foto = "/img/Produtos/imagem5.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 6,
                 Nome = "Direitos - Apartamento - 46,63m² - 02 Dorms. - Bauru/SP",
                 Descricao = "Lance mínimo atual: R$ 131.582,46 ",
                 CategoriaId = 2,
-                Foto = "/img/Produtos/imagem6.jpg"
+                Foto = "/img/Produtos/imagem6.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 7,
                 Nome = "Chácara c/ 4,2609 hectares - Rosana/SP",
                 Descricao = "Lance mínimo atual: R$ 641.712,00 ",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/imagem7.jpg"
+                Foto = "/img/Produtos/imagem7.jpg",
+                Destaque = true,
             },
             new Produto() {
                 Id = 8,
                 Nome = "Grande Imóvel Comercial - 2.583,00ms² - Campos do Jordão/SP",
                 Descricao = "Lance mínimo atual: R$ 4.179.000,00 ",
                 CategoriaId = 1,
-                Foto = "/img/Produtos/imagem8.jpg"
+                Foto = "/img/Produtos/imagem8.jpg",
+                Destaque = true,
             },
         };
         builder.Entity<Produto>().HasData(produtos);

@@ -24,7 +24,6 @@ C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compresse
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\jhl6ewfxm8-g2vr1vob29.gz
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\v5830wekui-61n19gt1b8.gz
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\h2mdsiee1t-mnrluq95yw.gz
-C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\bl4950lch5-xtxxf3hu2r.gz
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\cwfuzh5vqk-t1cqhe9u97.gz
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\p88mvmu11y-c2jlpeoesf.gz
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\u2bg2skn7i-sejl45xvog.gz
@@ -101,4 +100,5 @@ C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\refint\Te
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.pdb
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.genruntimeconfig.cache
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\ref\TechLeiloes.UI.dll
-C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\5ioqaixib7-bqv87aaa2h.gz
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\bl4950lch5-3r8b2a0bt1.gz
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\5ioqaixib7-peng4d1h8e.gz
