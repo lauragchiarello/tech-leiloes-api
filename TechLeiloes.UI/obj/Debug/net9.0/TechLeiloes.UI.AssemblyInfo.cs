@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechLeiloes.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0abd42bca4fc5a77fc217970ef3b7b984b0d802a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa114db63d47973c0a598dc9c93f7cbdf7a218f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechLeiloes.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechLeiloes.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

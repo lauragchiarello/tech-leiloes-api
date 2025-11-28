@@ -84,13 +84,41 @@ public class AppDbContext : IdentityDbContext<Usuario>
              new Categoria() {
                 Id = 1,
                 Nome = "Casa",
-                Foto = "/img/categorias/1.jpg",
+                Foto = "/img/categorias/casa-limpa.png",
                 Cor = "#000"
             },
             new Categoria() {
                 Id = 2,
                 Nome = "Apartamento",
-                Foto = "/img/categorias/2.jpg",
+                Foto = "/img/categorias/apartamento.png",
+                Cor = "#000"
+            },
+                        new Categoria() {
+                Id = 3,
+                Nome = "Imóvel Comercial",
+                Foto = "/img/categorias/loja.png",
+                Cor = "#000"
+            },
+                        new Categoria() {
+                Id = 4,
+                Nome = "Área Rural",
+                Foto = "/img/categorias/terreno.png",
+                Cor = "#000"
+            },            new Categoria() {
+                Id = 5,
+                Nome = "Área Industrial",
+                Foto = "/img/categorias/industria.png",
+                Cor = "#000"
+            },new Categoria() {
+                Id = 6,
+                Nome = "Agência",
+                Foto = "/img/categorias/publicidade.png",
+                Cor = "#000"
+            },
+            new Categoria() {
+                Id = 7,
+                Nome = "Galpão",
+                Foto = "/img/categorias/galpao.png",
                 Cor = "#000"
             },
         };
@@ -107,6 +135,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = " Lance mínimo atual: R$ 594.106,49",
                 CategoriaId = 2,
                 Foto = "/img/Produtos/imagem1.jpg",
+                ValorVenda=594106,
                 Destaque = true,
               
             },
@@ -116,6 +145,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = "Lance mínimo atual: R$ 41.248,36 ",
                 CategoriaId = 2,
                 Foto = "/img/Produtos/imagem2.jpg",
+                ValorVenda = 41248,
                 Destaque = true,
             },
             new Produto() {
@@ -124,6 +154,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = " Lance mínimo atual: R$ 501.304,06",
                 CategoriaId = 1,
                 Foto = "/img/Produtos/imagem3.jpg",
+                ValorVenda=501304,
                 Destaque = true,
             },
             new Produto() {
@@ -132,6 +163,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = " Lance mínimo atual: R$ 2.568.229,28",
                 CategoriaId = 1,
                 Foto = "/img/Produtos/imagem4.jpg",
+                ValorVenda = 2568229,
                 Destaque = true,
             },
             new Produto() {
@@ -141,6 +173,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 CategoriaId = 2,
                 Foto = "/img/Produtos/imagem5.jpg",
                 Destaque = true,
+                ValorVenda=1674648,
             },
             new Produto() {
                 Id = 6,
@@ -148,6 +181,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = "Lance mínimo atual: R$ 131.582,46 ",
                 CategoriaId = 2,
                 Foto = "/img/Produtos/imagem6.jpg",
+                ValorVenda = 131582,
                 Destaque = true,
             },
             new Produto() {
@@ -156,6 +190,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Descricao = "Lance mínimo atual: R$ 641.712,00 ",
                 CategoriaId = 1,
                 Foto = "/img/Produtos/imagem7.jpg",
+                ValorVenda = 641712,
                 Destaque = true,
             },
             new Produto() {
@@ -163,6 +198,7 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Nome = "Grande Imóvel Comercial - 2.583,00ms² - Campos do Jordão/SP",
                 Descricao = "Lance mínimo atual: R$ 4.179.000,00 ",
                 CategoriaId = 1,
+                ValorVenda = 4179000,
                 Foto = "/img/Produtos/imagem8.jpg",
                 Destaque = true,
             },
