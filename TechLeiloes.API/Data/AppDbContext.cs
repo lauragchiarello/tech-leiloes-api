@@ -46,14 +46,14 @@ public class AppDbContext : IdentityDbContext<Usuario>
         List<Usuario> usuarios = [
             new Usuario(){
                 Id = "ddf093a6-6cb5-4ff7-9a64-83da34aee005",
-                Email = "helooboarettoo@gmail.com",
-                NormalizedEmail = "HELOOBOARETTOO@GMAIL.COM",
-                UserName = "heloboaretto",
-                NormalizedUserName = "HELOBOARETTO",
+                Email = "laura_chiarello@gmail.com",
+                NormalizedEmail = "LAURA_CHIARELLO@GMAIL.COM",
+                UserName = "lauragchiarello",
+                NormalizedUserName = "LAURAGCHIARELLO",
                 LockoutEnabled = true,
                 EmailConfirmed = true,
-                Nome = "Heloísa Boaretto",
-                DataNascimento = DateTime.Parse("24/07/2008"),
+                Nome = "Laura Chiarello",
+                DataNascimento = DateTime.Parse("02/10/1998"),
                 Foto = "/img/usuarios/avatar.png"
             }
         ];
@@ -85,41 +85,41 @@ public class AppDbContext : IdentityDbContext<Usuario>
                 Id = 1,
                 Nome = "Casa",
                 Foto = "/img/categorias/casa-limpa.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },
             new Categoria() {
                 Id = 2,
                 Nome = "Apartamento",
                 Foto = "/img/categorias/apartamento.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },
                         new Categoria() {
                 Id = 3,
                 Nome = "Imóvel Comercial",
                 Foto = "/img/categorias/loja.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },
                         new Categoria() {
                 Id = 4,
                 Nome = "Área Rural",
                 Foto = "/img/categorias/terreno.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },            new Categoria() {
                 Id = 5,
                 Nome = "Área Industrial",
                 Foto = "/img/categorias/industria.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },new Categoria() {
                 Id = 6,
                 Nome = "Agência",
                 Foto = "/img/categorias/publicidade.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },
             new Categoria() {
                 Id = 7,
                 Nome = "Galpão",
                 Foto = "/img/categorias/galpao.png",
-                Cor = "#000"
+                Cor = "#06326c"
             },
         };
         builder.Entity<Categoria>().HasData(categorias);
@@ -151,7 +151,11 @@ public class AppDbContext : IdentityDbContext<Usuario>
             new Produto() {
                 Id = 3,
                 Nome = "Edificação c/ 132,25m² - Terreno c/ 250m² - São Paulo/SP Air",
-                Descricao = " Lance mínimo atual: R$ 501.304,06",
+                Descricao = " Prédio c/ 132,25m², terreno c/ 250m², Rua Dr. Constâncio Teani, n° 97, Vila Aurora, 8º subdistrito - Santana, 3º CRI 97.518. (Proc. 0040902-20.2022.8.26.0100) \n"+
+                " AVALIAÇÃO: R$ 626.630,07 | LANCE MÍNIMO: R$ 501.304,06 \n" + "(O IMÓVEL PODE SER PARCELADO COM 25% DE ENTRADA E O RESTANTE EM ATÉ 30 MESES)\n"+
+                "Obs.1: O Lance Mínimo foi calculado considerando os termos do Art. 843, do CPC/2015, ou seja, reservando a cota parte do coproprietário ou cônjuge alheio à execução.\n"+
+                "Obs.2: Conforme laudo de avaliação, trata-se de um imóvel com idade aparente de 30 anos, o qual aparentemente passou por reforma e revitalizações, em aparente regular estado de conservação.\n"+
+                "Obs.: Foi distribuído embargos de terceiro, ainda pendente de julgamento.",
                 CategoriaId = 1,
                 Foto = "/img/Produtos/imagem3.jpg",
                 ValorVenda=501304,
@@ -196,7 +200,9 @@ public class AppDbContext : IdentityDbContext<Usuario>
             new Produto() {
                 Id = 8,
                 Nome = "Grande Imóvel Comercial - 2.583,00ms² - Campos do Jordão/SP",
-                Descricao = "Lance mínimo atual: R$ 4.179.000,00 ",
+                Descricao = "Grande Imóvel Comercial, com a área de 2.583,00ms², lote 78, 1ª zona, Rua Sete, nº 530, Vila Inglesa, Campos do Jordão/SP. Imóvel matriculado sob nº 11.160 do Registro de Imóveis de  Campos do Jordão/SP.\n"+
+                "AVALIAÇÃO/LANCE MÍNIMO: R$ 4.179.000,00\n"+
+                "Obs.: No imóvel funcionava um Hotel, que oferecia quartos e suítes, com isolamento acústico e  piso aquecido, estacionamento, sauna seca e úmida, hidromassagem e churrasqueira, pub,  restaurante, sala de TV, café biblioteca, auditório, solarium e outras áreas sociais e espaços de  convívio, cercado por lados, estação de lenha e jardins. Na propriedade existem três edificações de  porte: Um prédio principal e dois chalés, as benfeitorias não estão averbadas na matrícula  imobiliária, sendo responsabilidade do arrematante arcar com a regularização. Atualmente as  construções necessitam de reparos.",
                 CategoriaId = 1,
                 ValorVenda = 4179000,
                 Foto = "/img/Produtos/imagem8.jpg",

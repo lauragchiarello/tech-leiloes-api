@@ -1,1 +1,1567 @@
-{"Version":1,"Hash":"YVC4odxHFCLxk4cDvAzo22/4RXE4TGUm932qqdAk1b8=","Source":"TechLeiloes.API","BasePath":"_content/TechLeiloes.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"TechLeiloes.API\\wwwroot","Source":"TechLeiloes.API","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","Pattern":"**"}],"Assets":[{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/apartamento#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"gjpatbf7k0","Integrity":"NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\apartamento.png","FileLength":940,"LastWriteTime":"2025-11-28T02:18:13+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/casa-limpa#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"l81ol5z0w8","Integrity":"u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\casa-limpa.png","FileLength":987,"LastWriteTime":"2025-11-28T02:20:06+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/galpao#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"q783iprtrp","Integrity":"VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\galpao.png","FileLength":899,"LastWriteTime":"2025-11-28T02:18:47+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/industria#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"je1sc6sgxk","Integrity":"5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\industria.png","FileLength":978,"LastWriteTime":"2025-11-28T02:19:41+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/loja#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"uo05d2higu","Integrity":"QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\loja.png","FileLength":946,"LastWriteTime":"2025-11-28T02:20:40+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/publicidade#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"5hlbpkxzph","Integrity":"eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\publicidade.png","FileLength":903,"LastWriteTime":"2025-11-28T02:17:37+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/categorias/terreno#[.{fingerprint}]?.png","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"lqj1vgxc0e","Integrity":"0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\categorias\\terreno.png","FileLength":987,"LastWriteTime":"2025-11-28T02:21:03+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem1#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"8k2eieg5cd","Integrity":"eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem1.jpg","FileLength":109777,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem2#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"440omtgsdc","Integrity":"lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem2.jpg","FileLength":353737,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem3#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"4ocfetu2gz","Integrity":"HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem3.jpg","FileLength":492001,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem4#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"z8p6eydo0o","Integrity":"rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem4.jpg","FileLength":490080,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem5#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"yqjk0soa61","Integrity":"Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem5.jpg","FileLength":110014,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem6#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"gvg5cib1kl","Integrity":"rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem6.jpg","FileLength":85494,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem7#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"fx5f7e575i","Integrity":"PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem7.jpg","FileLength":565033,"LastWriteTime":"2025-11-28T02:03:31+00:00"},{"Identity":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg","SourceId":"TechLeiloes.API","SourceType":"Discovered","ContentRoot":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\","BasePath":"_content/TechLeiloes.API","RelativePath":"img/Produtos/Imagem8#[.{fingerprint}]?.jpg","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"0bejreoygd","Integrity":"1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\img\\Produtos\\Imagem8.jpg","FileLength":454631,"LastWriteTime":"2025-11-28T02:03:31+00:00"}],"Endpoints":[{"Route":"img/categorias/apartamento.gjpatbf7k0.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"940"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:18:13 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"gjpatbf7k0"},{"Name":"label","Value":"img/categorias/apartamento.png"},{"Name":"integrity","Value":"sha256-NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg="}]},{"Route":"img/categorias/apartamento.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"940"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:18:13 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg="}]},{"Route":"img/categorias/casa-limpa.l81ol5z0w8.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"987"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:20:06 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"l81ol5z0w8"},{"Name":"label","Value":"img/categorias/casa-limpa.png"},{"Name":"integrity","Value":"sha256-u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg="}]},{"Route":"img/categorias/casa-limpa.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"987"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:20:06 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg="}]},{"Route":"img/categorias/galpao.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"899"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:18:47 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ="}]},{"Route":"img/categorias/galpao.q783iprtrp.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"899"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:18:47 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"q783iprtrp"},{"Name":"label","Value":"img/categorias/galpao.png"},{"Name":"integrity","Value":"sha256-VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ="}]},{"Route":"img/categorias/industria.je1sc6sgxk.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"978"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:19:41 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"je1sc6sgxk"},{"Name":"label","Value":"img/categorias/industria.png"},{"Name":"integrity","Value":"sha256-5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE="}]},{"Route":"img/categorias/industria.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"978"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:19:41 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE="}]},{"Route":"img/categorias/loja.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"946"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:20:40 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU="}]},{"Route":"img/categorias/loja.uo05d2higu.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"946"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:20:40 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"uo05d2higu"},{"Name":"label","Value":"img/categorias/loja.png"},{"Name":"integrity","Value":"sha256-QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU="}]},{"Route":"img/categorias/publicidade.5hlbpkxzph.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"903"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:17:37 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"5hlbpkxzph"},{"Name":"label","Value":"img/categorias/publicidade.png"},{"Name":"integrity","Value":"sha256-eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI="}]},{"Route":"img/categorias/publicidade.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"903"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:17:37 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI="}]},{"Route":"img/categorias/terreno.lqj1vgxc0e.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"987"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:21:03 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"lqj1vgxc0e"},{"Name":"label","Value":"img/categorias/terreno.png"},{"Name":"integrity","Value":"sha256-0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso="}]},{"Route":"img/categorias/terreno.png","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"987"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\"0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:21:03 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso="}]},{"Route":"img/Produtos/Imagem1.8k2eieg5cd.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"109777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"8k2eieg5cd"},{"Name":"label","Value":"img/Produtos/Imagem1.jpg"},{"Name":"integrity","Value":"sha256-eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo="}]},{"Route":"img/Produtos/Imagem1.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"109777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo="}]},{"Route":"img/Produtos/Imagem2.440omtgsdc.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"353737"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"440omtgsdc"},{"Name":"label","Value":"img/Produtos/Imagem2.jpg"},{"Name":"integrity","Value":"sha256-lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg="}]},{"Route":"img/Produtos/Imagem2.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"353737"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg="}]},{"Route":"img/Produtos/Imagem3.4ocfetu2gz.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"492001"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"4ocfetu2gz"},{"Name":"label","Value":"img/Produtos/Imagem3.jpg"},{"Name":"integrity","Value":"sha256-HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q="}]},{"Route":"img/Produtos/Imagem3.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"492001"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q="}]},{"Route":"img/Produtos/Imagem4.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"490080"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4="}]},{"Route":"img/Produtos/Imagem4.z8p6eydo0o.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"490080"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"z8p6eydo0o"},{"Name":"label","Value":"img/Produtos/Imagem4.jpg"},{"Name":"integrity","Value":"sha256-rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4="}]},{"Route":"img/Produtos/Imagem5.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"110014"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM="}]},{"Route":"img/Produtos/Imagem5.yqjk0soa61.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"110014"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"yqjk0soa61"},{"Name":"label","Value":"img/Produtos/Imagem5.jpg"},{"Name":"integrity","Value":"sha256-Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM="}]},{"Route":"img/Produtos/Imagem6.gvg5cib1kl.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"85494"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"gvg5cib1kl"},{"Name":"label","Value":"img/Produtos/Imagem6.jpg"},{"Name":"integrity","Value":"sha256-rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI="}]},{"Route":"img/Produtos/Imagem6.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"85494"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI="}]},{"Route":"img/Produtos/Imagem7.fx5f7e575i.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"565033"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"fx5f7e575i"},{"Name":"label","Value":"img/Produtos/Imagem7.jpg"},{"Name":"integrity","Value":"sha256-PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k="}]},{"Route":"img/Produtos/Imagem7.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"565033"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k="}]},{"Route":"img/Produtos/Imagem8.0bejreoygd.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"454631"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"0bejreoygd"},{"Name":"label","Value":"img/Produtos/Imagem8.jpg"},{"Name":"integrity","Value":"sha256-1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI="}]},{"Route":"img/Produtos/Imagem8.jpg","AssetFile":"C:\\Users\\Laura\\OneDrive\\Área de Trabalho\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"454631"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\"1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=\""},{"Name":"Last-Modified","Value":"Fri, 28 Nov 2025 02:03:31 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI="}]}]}
+{
+  "Version": 1,
+  "Hash": "gC/Cv9rEwHJmZzD6EK1+PIN87cF8Ql8Xx8x452Y9rg4=",
+  "Source": "TechLeiloes.API",
+  "BasePath": "_content/TechLeiloes.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TechLeiloes.API\\wwwroot",
+      "Source": "TechLeiloes.API",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/apartamento#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gjpatbf7k0",
+      "Integrity": "NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\apartamento.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/casa-limpa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l81ol5z0w8",
+      "Integrity": "u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\casa-limpa.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/galpao#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q783iprtrp",
+      "Integrity": "VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\galpao.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/industria#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "je1sc6sgxk",
+      "Integrity": "5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\industria.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/loja#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uo05d2higu",
+      "Integrity": "QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\loja.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/publicidade#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5hlbpkxzph",
+      "Integrity": "eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\publicidade.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/categorias/terreno#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lqj1vgxc0e",
+      "Integrity": "0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\categorias\\terreno.png"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8k2eieg5cd",
+      "Integrity": "eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "440omtgsdc",
+      "Integrity": "lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ocfetu2gz",
+      "Integrity": "HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z8p6eydo0o",
+      "Integrity": "rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yqjk0soa61",
+      "Integrity": "Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gvg5cib1kl",
+      "Integrity": "rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fx5f7e575i",
+      "Integrity": "PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg",
+      "SourceId": "TechLeiloes.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\",
+      "BasePath": "_content/TechLeiloes.API",
+      "RelativePath": "img/Produtos/Imagem8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0bejreoygd",
+      "Integrity": "1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Produtos\\Imagem8.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/categorias/apartamento.gjpatbf7k0.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjpatbf7k0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/apartamento.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/apartamento.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NGdyDDDWnxzCin/QtHMcRiMHFaMGuRzQzJKj5o4nGpg="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/casa-limpa.l81ol5z0w8.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l81ol5z0w8"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/casa-limpa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/casa-limpa.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u0pQAyk+YxaTxIfvUarcorrW+/Dw0HWYTU8ruJAsSjg="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/galpao.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/galpao.q783iprtrp.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q783iprtrp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/galpao.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VpJ89KKqzw9+KzAD9kmY9ObFtCLFHFE0CL4y5zlcxjQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/industria.je1sc6sgxk.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "je1sc6sgxk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/industria.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/industria.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5eVdLHKV/PvNHni6azvuja4P3ZGkkXjanUciFi7yRvE="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/loja.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/loja.uo05d2higu.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "946"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uo05d2higu"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/loja.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmjRlu2/3HK0FH6hx4I7daMaakW92ekyzQmr2I2P0uU="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/publicidade.5hlbpkxzph.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hlbpkxzph"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/publicidade.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/publicidade.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZqOJq0zH7EMQwZKvMpYEGFvFbX30BboWkhyzj5wHrI="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/terreno.lqj1vgxc0e.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lqj1vgxc0e"
+        },
+        {
+          "Name": "label",
+          "Value": "img/categorias/terreno.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso="
+        }
+      ]
+    },
+    {
+      "Route": "img/categorias/terreno.png",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0xbmaNdLr5uDr7vyrbLkt5oNjmx3hIzTt8EPgI8BNso="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem1.8k2eieg5cd.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8k2eieg5cd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem1.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eI5UsnbFr2FDmoMAE8vrgRJZsd/HvWvvrau24jLkECo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem2.440omtgsdc.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "440omtgsdc"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem2.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "353737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lIDGxNickNFVqASKltOZVQ8rGOwu4uWCXhEqQV5mSgg="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem3.4ocfetu2gz.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ocfetu2gz"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem3.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFBdXCw3MUaJo8buBMJOcmfT8x+/QgEu5dZvvruWl+Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem4.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem4.z8p6eydo0o.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z8p6eydo0o"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rdRwttaYENqgrs4S4bVYQJ8f5d0koQ/wX4S5Qo3hMg4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem5.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem5.yqjk0soa61.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "110014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yqjk0soa61"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bm/1ZJmaufjKZnaucenx4O7Kqx2qIQtjmr2/uCqzcRM="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem6.gvg5cib1kl.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gvg5cib1kl"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem6.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rOiCdtzcrGttZTZA3b3aOUfPrFMRmK8DEVWNWlxYwyI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem7.fx5f7e575i.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fx5f7e575i"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem7.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "565033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PcWA+0wab5qwJ7aeVnoR3YheuT5nZwGdZvTRCQiwy3k="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem8.0bejreoygd.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0bejreoygd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Produtos/Imagem8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Produtos/Imagem8.jpg",
+      "AssetFile": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\Produtos\\Imagem8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Nov 2025 22:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1D0nAWvL4kn8ZrwyyzOkQPDUwy05EGLw1fET5Yv+MZI="
+        }
+      ]
+    }
+  ]
+}

@@ -100,8 +100,6 @@ C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\refint\Te
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.pdb
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.genruntimeconfig.cache
 C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\ref\TechLeiloes.UI.dll
-C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\bl4950lch5-3r8b2a0bt1.gz
-C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\5ioqaixib7-peng4d1h8e.gz
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\bin\Debug\net9.0\appsettings.json
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\bin\Debug\net9.0\TechLeiloes.UI.staticwebassets.runtime.json
@@ -205,3 +203,5 @@ C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\obj\De
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.pdb
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\TechLeiloes.UI.genruntimeconfig.cache
 C:\Users\Laura\OneDrive\Área de Trabalho\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\ref\TechLeiloes.UI.dll
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\bl4950lch5-9md1wh2c5f.gz
+C:\Users\etec\Desktop\tech-leiloes-api\techleiloes.ui\obj\Debug\net9.0\compressed\5ioqaixib7-c99413qtv3.gz

@@ -33,6 +33,34 @@
       "PackagePath": "staticwebassets\\img\\Produtos\\Imagem8.jpg"
     },
     {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\apartamento.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\apartamento.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\casa-limpa.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\casa-limpa.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\galpao.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\galpao.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\industria.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\industria.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\loja.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\loja.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\publicidade.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\publicidade.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\tech-leiloes-api\\techleiloes.api\\wwwroot\\img\\categorias\\terreno.png",
+      "PackagePath": "staticwebassets\\img\\categorias\\terreno.png"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TechLeiloes.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
